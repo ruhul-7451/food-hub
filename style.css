@@ -108,8 +108,11 @@ h4{
 }
 .footer-design{
     margin-top: 5%;
-    color: white;
+    color:silver;
     text-align: center;
-    background-color: rgb(0, 0, 59);
+    background-color: black;
     padding: 30px 0px 90px 0px;
+}
+#bottom-text{
+    color: white;
 }
