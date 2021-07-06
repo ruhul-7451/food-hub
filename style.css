@@ -86,3 +86,7 @@ h4{
 .section-padding{
     padding: 0px 100px 0px 100px;
 }
+footer p{
+    text-align: center;
+    font-size: 20px;
+}
