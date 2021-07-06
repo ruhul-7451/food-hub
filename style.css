@@ -86,6 +86,9 @@ h4{
     width: 97%;
     border-radius: 50px;
 }
+.recipes-para{
+    text-align: justify;
+}
 .shadow{
     margin: 50px;
     border-radius: 25px;
