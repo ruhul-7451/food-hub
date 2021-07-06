@@ -7,10 +7,18 @@ h1{
     color: rgb(77, 77, 77);
     padding-top: 100px;
 }
+h2{
+    font-size: 40px;
+    color: rgb(97, 97, 97);
+    padding-top: 50px;
+}
 .gray-text{
     font-size: 25px;
     color: gray;
-    padding-bottom:50px;
+    padding-right: 100px;
+}
+.btn-position{
+    padding-bottom: 50px;
 }
 .orange-text{
     color: tomato;
@@ -25,11 +33,27 @@ h1{
 }
 .display-flex{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
     padding-left: 100px;
 }
-.image-width{
-    width: 90%;
+.first-girl-width{
+    width: 100%;
+}
+.section-bg{
+    background-image: url(images/frame.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sec-girl-width{
+    width: 50%;
+    margin-left: 100px;
+}
+.para-design{
+    font-size: 20px;
+    line-height: 1.8;
+    margin-right: 35%;
 }
