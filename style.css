@@ -54,18 +54,19 @@ h4{
     padding-left: 100px;
 }
 .first-girl-width{
-    width: 100%;
+    width: 90%;
+    padding: 80px 25px;
 }
 .section-bg{
-    background-image: url(images/frame.png);
+    background-image: url(images/abs-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
-.sec-girl-width{
-    width: 50%;
-    margin-left: 100px;
-    margin-top: 110px;
+.sec-boy-width{
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 100px;
 }
 .para-design{
     font-size: 20px;
@@ -74,14 +75,13 @@ h4{
 }
 .recipes-width{
     width: 97%;
-    border-radius: 80px;
-    border: green solid 5px;
+    border-radius: 50px;
 }
 .shadow{
-    border: solid red 5px;
     margin: 50px;
+    border-radius: 25px;
     padding: 25px;
-    box-shadow: 25px 25px 25px gray;
+    box-shadow: 25px 25px 50px gray;
 }
 .section-padding{
     padding: 0px 100px 0px 100px;
