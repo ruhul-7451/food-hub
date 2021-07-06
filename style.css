@@ -12,6 +12,20 @@ h2{
     color: rgb(97, 97, 97);
     padding-top: 100px;
 }
+h3{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(97,97,97);
+}
+h4{
+    font-size: 30px;
+}
+
+.sec3-para{
+    text-align: center;
+    font-size: 20px;
+    padding: 0px 300px 0px 300px;
+}
 .gray-text{
     font-size: 25px;
     color: gray;
@@ -57,4 +71,18 @@ h2{
     font-size: 20px;
     line-height: 1.8;
     margin-right: 30%;
+}
+.recipes-width{
+    width: 97%;
+    border-radius: 80px;
+    border: green solid 5px;
+}
+.shadow{
+    border: solid red 5px;
+    margin: 50px;
+    padding: 25px;
+    box-shadow: 25px 25px 25px gray;
+}
+.section-padding{
+    padding: 0px 100px 0px 100px;
 }
