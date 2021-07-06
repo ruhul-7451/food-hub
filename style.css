@@ -1,10 +1,16 @@
 body{
     font-family: 'Roboto', sans-serif;
-    padding-left: 100px;
+    margin: 0;
 }
 h1{
     font-size: 75px;
     color: rgb(77, 77, 77);
+    padding-top: 100px;
+}
+.gray-text{
+    font-size: 25px;
+    color: gray;
+    padding-bottom:50px;
 }
 .orange-text{
     color: tomato;
@@ -15,14 +21,15 @@ h1{
     padding: 20px 40px;
     border-radius: 50px;
     color: white;
+    font-size: 20px;
 }
 .display-flex{
     display: flex;
 }
 .half-width{
     width: 50%;
+    padding-left: 100px;
 }
 .image-width{
-    width: 80%;
-    padding-left: 100px;
+    width: 90%;
 }
