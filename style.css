@@ -10,7 +10,7 @@ h1{
 h2{
     font-size: 40px;
     color: rgb(97, 97, 97);
-    padding-top: 50px;
+    padding-top: 100px;
 }
 .gray-text{
     font-size: 25px;
@@ -51,9 +51,10 @@ h2{
 .sec-girl-width{
     width: 50%;
     margin-left: 100px;
+    margin-top: 110px;
 }
 .para-design{
     font-size: 20px;
     line-height: 1.8;
-    margin-right: 35%;
+    margin-right: 30%;
 }
